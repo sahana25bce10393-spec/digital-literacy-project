@@ -4,8 +4,8 @@
 
 ## Student Details
 - **Name**: Sahana Saxena  
-- **Registration Number**: [Your Registration Number]  
-- **Branch**: [Your Branch]  
+- **Registration Number**: 25BCE10393  
+- **Branch**: computer science engineering  
 - **Year**: 1st Year B.Tech  
 
 ---
